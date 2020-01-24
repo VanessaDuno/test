@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e308fb3-dba5-49cf-b63e-01d72985afaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WgK8SIuodFSbDvnMZYkwsOX0Tk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/dog/ceo/msbreed" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dog.ceo.msbreed.dto" />
+      <recent name="dog.ceo.msbreed.gateway" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in ms-breed">
+    <configuration name="MsBreedApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dog.ceo.msbreed.MsBreedApplication" />
+      <module name="ms-breed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dog.ceo.msbreed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ms-breed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-breed" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreedDogFacadeImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-breed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dog.ceo.msbreed.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dog.ceo.msbreed.facade" />
+      <option name="MAIN_CLASS_NAME" value="dog.ceo.msbreed.facade.BreedDogFacadeImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowManagerFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-breed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dog.ceo.msbreed.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dog.ceo.msbreed.manager" />
+      <option name="MAIN_CLASS_NAME" value="dog.ceo.msbreed.manager.FlowManagerFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowManagerFactoryTest.isMethodGetUrlsApiBreedThere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-breed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dog.ceo.msbreed.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dog.ceo.msbreed.manager" />
+      <option name="MAIN_CLASS_NAME" value="dog.ceo.msbreed.manager.FlowManagerFactoryTest" />
+      <option name="METHOD_NAME" value="isMethodGetUrlsApiBreedThere" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MsBreedApplication" />
+        <item itemvalue="JUnit.All in ms-breed" />
+        <item itemvalue="JUnit.FlowManagerFactoryTest.isMethodGetUrlsApiBreedThere" />
+        <item itemvalue="JUnit.BreedDogFacadeImpTest" />
+        <item itemvalue="JUnit.FlowManagerFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e308fb3-dba5-49cf-b63e-01d72985afaf" name="Default Changelist" comment="" />
+      <created>1579565637783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579565637783</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="51" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1579569054611">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="322" y="51" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579569054611" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1579832469724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579832469724" />
+    <state x="211" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579821698419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="211" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1579821698419" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579571651867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579571651867" />
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1579711355720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579711355720" />
+    <state x="60" y="130" width="1160" height="595" key="#xdebugger.evaluate" timestamp="1579798500262">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="60" y="130" width="1160" height="595" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1579798500262" />
+    <state width="476" height="466" key="DebuggerActiveHint" timestamp="1579822014256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="476" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1579822014256" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1579741793905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579741793905" />
+    <state width="1323" height="255" key="GridCell.Tab.0.bottom" timestamp="1579834606695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579834606695" />
+    <state width="1323" height="255" key="GridCell.Tab.0.center" timestamp="1579834606695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579834606695" />
+    <state width="1323" height="255" key="GridCell.Tab.0.left" timestamp="1579834606694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579834606694" />
+    <state width="1323" height="255" key="GridCell.Tab.0.right" timestamp="1579834606695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579834606695" />
+    <state width="1323" height="2" key="GridCell.Tab.1.bottom" timestamp="1579834577663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579834577663" />
+    <state width="1323" height="2" key="GridCell.Tab.1.center" timestamp="1579834577663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579834577663" />
+    <state width="1323" height="2" key="GridCell.Tab.1.left" timestamp="1579834577663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579834577663" />
+    <state width="1323" height="2" key="GridCell.Tab.1.right" timestamp="1579834577663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579834577663" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1579567621176">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579567621176" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1579712593270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1579712593270" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1579613423458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1579613423458" />
+    <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1579565920243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1579565920243" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1579568103959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579568103959" />
+    <state x="239" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579824702553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="239" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1579824702553" />
+    <state x="379" y="101" width="790" height="596" key="find.popup" timestamp="1579832635999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="101" width="790" height="596" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1579832635999" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1579698768695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1579698768695" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1579572777695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579572777695" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/dog/ceo/msbreed/gateway/BreedsListGatewayTest.java</url>
+          <line>239</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/dog/ceo/msbreed/gateway/BreedsListGatewayTest.java</url>
+          <line>237</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/dog/ceo/msbreed/gateway/BreedsListGatewayTest.java</url>
+          <line>240</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/dog/ceo/msbreed/manager/FlowManagerFactoryTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dog/ceo/msbreed/manager/FlowManagerFactory.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
